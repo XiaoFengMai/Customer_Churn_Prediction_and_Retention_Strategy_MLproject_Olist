@@ -1,0 +1,2 @@
+# Customer_Churn_Prediction_and_Retention_Strategy_project_Olist
+python, R, machine learning
